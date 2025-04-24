@@ -61,7 +61,7 @@ Both services offer scalable solutions, and upgrading to paid plans can ensure i
 1. Clone the repository:
    ```bash
    git clone https://github.com/Umang0310/IPD.git
-   cd Datathon2025
+   cd IPD
    ```
 2. Install dependencies:
    ```bash
