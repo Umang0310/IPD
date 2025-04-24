@@ -60,7 +60,7 @@ Both services offer scalable solutions, and upgrading to paid plans can ensure i
 ### Local Deployment
 1. Clone the repository:
    ```bash
-   git clone https://github.com/saumyadesai17/Datathon2025.git
+   git clone https://github.com/Umang0310/IPD.git
    cd Datathon2025
    ```
 2. Install dependencies:
