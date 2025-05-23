@@ -141,7 +141,3 @@ This will grant you access to the dashboard and all available features.
 #### Product Recommendations
 ![Product Recommendations](frontend/assets/Product-Recommendations.png)
 
----
-
-## 📬 Contact
-For any queries or collaboration opportunities, reach out at [saumyadesai521@gmail.com](mailto:saumyadesai521@gmail.com) or connect with me on my [LinkedIn profile](https://www.linkedin.com/in/saumya-desai-42757328a).
